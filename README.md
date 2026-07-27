@@ -6,7 +6,32 @@
 [![Compose](https://img.shields.io/badge/UI-Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
 
-Nutrica is a comprehensive Android nutrition tracking platform that empowers users to become their own nutritionists. Built with modern Android technologies and powered by AI-driven insights, Nutrica provides real-time nutrition tracking, intelligent barcode scanning, personalized meal planning, and offline-first data persistence.
+This is a no-code application that leverages prompt engineering to enable rapid app creation and configuration.
+
+---
+
+## Screenshots
+
+Below are example app screens (kept moderately small so they are easy to view without excessive scrolling). Each image has a short title above it and the images are ordered: Login, Dashboard, Scan, AI Coach, Food Planner.
+
+### Login
+<p><img src="images/login-page-nutrica.jpeg" alt="Login - Nutrica" title="Login" width="480"/></p>
+
+### Dashboard
+<p><img src="images/overall-dashboard-nutrica.jpeg" alt="Dashboard - Nutrica" title="Dashboard" width="480"/></p>
+
+### Scan
+<p><img src="images/log-scan-food-feature-nutrica.jpeg" alt="Scan - Nutrica" title="Scan" width="480"/></p>
+
+### AI Coach
+<p><img src="images/nutrica-ai-coach.jpeg" alt="AI Coach - Nutrica" title="AI Coach" width="480"/></p>
+
+### Food Planner
+<p><img src="images/food-planner-nutrica-feature.jpeg" alt="Food Planner - Nutrica" title="Food Planner" width="480"/></p>
+
+---
+
+Nutrica is a comprehensive Android nutrition tracking platform that empowers users to become their own nutritionists. Built with modern Android technologies and powered by AI-driven insights, Nutri[...]
 
 **Core Philosophy:** "Fueling a Better Tomorrow" - Making nutrition science accessible, actionable, and personalized.
 
@@ -350,35 +375,35 @@ We welcome contributions from the community. To contribute:
    - Test coverage expectations
 
 2. **Development Workflow:**
-   ```bash
-   # Create feature branch
-   git checkout -b feature/your-feature-name
+```bash
+# Create feature branch
+git checkout -b feature/your-feature-name
    
-   # Make changes and test
-   ./gradlew testDebugUnitTest
+# Make changes and test
+./gradlew testDebugUnitTest
    
-   # Commit with descriptive message
-   git commit -m "feat: Add barcode scanning feature"
+# Commit with descriptive message
+git commit -m "feat: Add barcode scanning feature"
    
-   # Push and create Pull Request
-   git push origin feature/your-feature-name
-   ```
+# Push and create Pull Request
+git push origin feature/your-feature-name
+```
 
 3. **Code Review Checklist:**
-   - All tests pass locally
-   - Code follows Kotlin style guide
-   - No hardcoded API keys or secrets
-   - Documentation updated for new features
-   - UI changes tested on multiple screen sizes
+- All tests pass locally
+- Code follows Kotlin style guide
+- No hardcoded API keys or secrets
+- Documentation updated for new features
+- UI changes tested on multiple screen sizes
 
 4. **Automated Quality Checks:**
-   ```bash
-   # Run complete test suite before submitting PR
-   ./gradlew testDebugUnitTest
-   ./gradlew connectedAndroidTest
-   ./gradlew lintDebug
-   ./gradlew spotlessCheck
-   ```
+```bash
+# Run complete test suite before submitting PR
+./gradlew testDebugUnitTest
+./gradlew connectedAndroidTest
+./gradlew lintDebug
+./gradlew spotlessCheck
+```
 
 ---
 
