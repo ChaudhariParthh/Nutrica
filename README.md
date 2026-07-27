@@ -6,7 +6,7 @@
 [![Compose](https://img.shields.io/badge/UI-Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
 
-This is a no-code application that leverages prompt engineering to enable rapid app creation and configuration.
+Nutrica is a no-code AI-powered nutrition assistant built using Google AI Studio with the Gemini 3.5 Flash model and advanced prompt engineering. It features a Nutrition Dashboard, Calendar-Based Meal Tracking, an AI Food Swapper for healthier alternatives, and an AI Nutrition Coach that provides personalized nutrition, fitness, and meal-planning guidance through natural conversations. Nutrica also delivers daily nutrition summaries, personalized meal recommendations, and actionable health insights—all without requiring users to write code.
 
 App Demo : https://drive.google.com/file/d/13ayqd5Uo9EpZEHM8TjkbBfhMtHnFgTc0/view?usp=sharing
 ---
