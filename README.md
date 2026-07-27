@@ -6,33 +6,33 @@
 [![Compose](https://img.shields.io/badge/UI-Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
 
-Nutrica is a no-code AI-powered nutrition assistant built using Google AI Studio with the Gemini 3.5 Flash model and advanced prompt engineering. It features a Nutrition Dashboard, Calendar-Based Meal Tracking, an AI Food Swapper for healthier alternatives, and an AI Nutrition Coach that provides personalized nutrition, fitness, and meal-planning guidance through natural conversations. Nutrica also delivers daily nutrition summaries, personalized meal recommendations, and actionable health insights—all without requiring users to write code.
+Nutrica is a no-code AI-powered nutrition assistant built using Google AI Studio with the Gemini 3.5 Flash model and advanced prompt engineering. It features a Nutrition Dashboard, Calendar-Based Meal Tracking, AI-powered Coaching, and Smart Nutrition Logging.
 
 App Demo : https://drive.google.com/file/d/13ayqd5Uo9EpZEHM8TjkbBfhMtHnFgTc0/view?usp=sharing
 ---
 
 ## Screenshots
 
-Below are example app screens (kept moderately small so they are easy to view without excessive scrolling). Each image has a short title above it and the images are ordered: Login, Dashboard, Scan, AI Coach, Food Planner.
+Below are example app screens. Each image has a short title above it and the images are ordered: Login, Dashboard, Scan, AI Coach, and Food Planner.
 
 ### Login
-<p><img src="images/login-page-nutrica.jpeg" alt="Login - Nutrica" title="Login" width="480"/></p>
+<p><img src="images/login-page-nutrica.jpeg" alt="Login - Nutrica" title="Login" width="300"/></p>
 
 ### Dashboard
-<p><img src="images/overall-dashboard-nutrica.jpeg" alt="Dashboard - Nutrica" title="Dashboard" width="480"/></p>
+<p><img src="images/overall-dashboard-nutrica.jpeg" alt="Dashboard - Nutrica" title="Dashboard" width="300"/></p>
 
 ### Scan
-<p><img src="images/log-scan-food-feature-nutrica.jpeg" alt="Scan - Nutrica" title="Scan" width="480"/></p>
+<p><img src="images/log-scan-food-feature-nutrica.jpeg" alt="Scan - Nutrica" title="Scan" width="300"/></p>
 
 ### AI Coach
-<p><img src="images/nutrica-ai-coach.jpeg" alt="AI Coach - Nutrica" title="AI Coach" width="480"/></p>
+<p><img src="images/nutrica-ai-coach.jpeg" alt="AI Coach - Nutrica" title="AI Coach" width="300"/></p>
 
 ### Food Planner
-<p><img src="images/food-planner-nutrica-feature.jpeg" alt="Food Planner - Nutrica" title="Food Planner" width="480"/></p>
+<p><img src="images/food-planner-nutrica-feature.jpeg" alt="Food Planner - Nutrica" title="Food Planner" width="300"/></p>
 
 ---
 
-Nutrica is a comprehensive Android nutrition tracking platform that empowers users to become their own nutritionists. Built with modern Android technologies and powered by AI-driven insights, Nutri[...]
+Nutrica is a comprehensive Android nutrition tracking platform that empowers users to become their own nutritionists. Built with modern Android technologies and powered by AI-driven insights, Nutrica combines barcode scanning, real-time nutrition logging, and personalized AI coaching to deliver a seamless nutrition management experience.
 
 **Core Philosophy:** "Fueling a Better Tomorrow" - Making nutrition science accessible, actionable, and personalized.
 
