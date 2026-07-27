@@ -30,6 +30,9 @@ Below are example app screens. Each image has a short title above it and the ima
 ### Food Planner
 <p><img src="images/food-planner-nutrica-feature.jpeg" alt="Food Planner - Nutrica" title="Food Planner" width="300"/></p>
 
+### In-Mobile POV
+<img width="300" height="1400" alt="inmobile-app-pov" src="https://github.com/user-attachments/assets/9fbe7a0d-5735-43d8-907c-4a2348e29df5" />
+
 ---
 
 Nutrica is a comprehensive Android nutrition tracking platform that empowers users to become their own nutritionists. Built with modern Android technologies and powered by AI-driven insights, Nutrica combines barcode scanning, real-time nutrition logging, and personalized AI coaching to deliver a seamless nutrition management experience.
