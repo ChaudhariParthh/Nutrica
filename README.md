@@ -1,4 +1,4 @@
-# Nutrica - Personal Nutrition Management Platform
+# Nutrica - Be Your Own Nutrionist
 
 [![Android CI](https://github.com/ChaudhariParthh/Nutrica/actions/workflows/android.yml/badge.svg)](https://github.com/ChaudhariParthh/Nutrica/actions/workflows/android.yml)
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com)
