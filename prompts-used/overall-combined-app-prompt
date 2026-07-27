@@ -1,0 +1,447 @@
+Backend : Flutter + Firebase + AI APIs
+Production app
+⭐⭐⭐⭐☆
+⭐⭐⭐⭐⭐ (Best overall)
+App Name : Nutrica , Developed By Parth C [Artificial intelligence and data sceince engineer]
+app idea : [# Master Prompt: Build an Advanced AI-Powered Nutrition & Food Tracking App (Beyond Journable)
+Objective: Create a production-ready AI-powered nutrition tracking application inspired by Journable but significantly more advanced. The app should focus on effortless food logging, AI-powered nutrition analysis, personalized coaching, and long-term habit building. The design must be premium, modern, minimal, fast, and highly engaging with smooth animations.
+Product Name
+Use a unique modern name such as:
+NutriAI
+FuelMind
+MacroMate
+NutriFlow
+CaloriePilot
+(Create branding and logo automatically.)
+Design Language
+Create an Apple-level polished UI.
+Theme:
+Minimal
+Glassmorphism
+Smooth gradients
+Dark & Light Mode
+Material You support
+Beautiful charts
+Rounded Cards
+Premium typography
+Micro animations
+Haptic feedback
+Fast loading
+Authentication
+Google Login
+Apple Login
+Email Login
+Guest Mode
+OTP Authentication
+Home Dashboard
+Display today's overview.
+Cards include:
+Calories Consumed
+Calories Remaining
+Protein
+Carbs
+Fat
+Fiber
+Sugar
+Water Intake
+Steps (Google Fit/Apple Health)
+Weight Trend
+Streak
+Daily Score (AI Health Score)
+Show beautiful circular progress indicators.
+Smart AI Food Search
+At the bottom create an AI search bar.
+User can type naturally.
+Examples:
+I ate 2 chapatis with paneer.
+Had one bowl of chicken biryani.
+Ate 3 idlis and coconut chutney.
+I drank one glass mango shake.
+AI should understand:
+quantity
+serving size
+ingredients
+cooking style
+oil estimation
+restaurant food
+homemade food
+Return:
+✔ Calories
+✔ Protein
+✔ Carbs
+✔ Fat
+✔ Fiber
+✔ Sugar
+✔ Sodium
+✔ Potassium
+✔ Calcium
+✔ Iron
+✔ Vitamin A
+✔ Vitamin C
+✔ Vitamin D
+✔ Vitamin B12
+✔ Cholesterol
+✔ Omega 3
+✔ Saturated Fat
+✔ Trans Fat
+Confidence score.
+AI Camera Food Scanner
+Camera button beside search.
+User uploads image.
+AI performs:
+Food Detection
+Ingredient Detection
+Serving Size Estimation
+Portion Detection
+Plate Segmentation
+Nutrition Calculation
+Show detected foods inside beautiful cards.
+Example:
+Chicken Breast
+150 g
+248 kcal
+Protein 42g
+Carbs 0g
+Fat 5g
+Display nutrients inside responsive grid.
+Grid example:
+Calories
+Protein
+Carbs
+Fat
+Fiber
+Sugar
+Sodium
+Potassium
+Iron
+Vitamin C
+Calcium
+Magnesium
+Vitamin D
+Vitamin B12
+Zinc
+Omega-3
+Allow user to edit AI prediction if incorrect.
+Barcode Scanner
+Scan packaged food.
+Automatically retrieve:
+Ingredients
+Nutrition Facts
+Allergens
+Additives
+Health Rating
+Voice Logging
+User can say:
+"I ate two bananas and one glass milk."
+Automatically log.
+Calendar View
+Beautiful monthly calendar.
+Each day has colored rings.
+Green
+Within calorie goal
+Yellow
+Slightly over
+Red
+Exceeded
+Tap any day.
+Show:
+Breakfast
+Lunch
+Dinner
+Snacks
+Water
+Exercise
+Calories
+Macros
+Micronutrients
+Weight
+Mood
+Notes
+AI Insights
+Daily Nutrition Summary
+At end of day generate beautiful summary.
+Example:
+Today's Nutrition
+Calories
+1820 / 2000
+Protein
+145g
+Carbs
+180g
+Fat
+58g
+Fiber
+34g
+Sugar
+27g
+Water
+2.7L
+Health Score
+92%
+AI Suggestions
+Excellent protein intake.
+Increase fiber tomorrow.
+Reduce sodium.
+Eat more fruits.
+Great consistency!
+Weekly Dashboard
+Charts:
+Calories
+Protein
+Carbs
+Fat
+Weight
+Water
+Workout
+Streak
+AI trends.
+Monthly Dashboard
+Show:
+Average Calories
+Average Protein
+Best Day
+Worst Day
+Longest Streak
+Weight Lost
+Body Fat Trend
+Habit Score
+Nutrition Quality
+Calorie Goal
+Allow user to set:
+Weight
+Height
+Age
+Gender
+Body Fat %
+Activity Level
+Goal
+Lose Weight
+Maintain
+Bulk
+Recomp
+Athlete
+AI calculates:
+Calories
+Protein
+Carbs
+Fat
+Water
+Fiber
+AI Coach
+Built-in chatbot.
+User asks:
+Can I eat pizza today?
+What should I eat before gym?
+How much protein left?
+Suggest dinner.
+Why am I not losing weight?
+How many calories burned?
+Generate personalized advice using user's history.
+Streak System
+Daily logging streak
+Water streak
+Workout streak
+Healthy eating streak
+Protein streak
+Weight logging streak
+Weekly challenges.
+Unlock badges.
+Gamification
+XP points
+Levels
+Achievements
+Ranks
+Weekly Missions
+Monthly Challenges
+Healthy Eating Score
+Leaderboards (optional)
+Smart Notifications
+Meal reminders
+Water reminders
+Protein reminders
+Workout reminders
+Sleep reminder
+Shopping reminder
+Weekly report
+AI Meal Planner
+Generate:
+Breakfast
+Lunch
+Dinner
+Snacks
+Based on:
+Budget
+Cuisine
+Diet
+Calories
+Protein goal
+Vegetarian
+Vegan
+Indian
+Keto
+Mediterranean
+Gym diet
+Grocery List Generator
+Automatically generate shopping list from meal plan.
+Recipe Generator
+Generate recipes using ingredients available.
+Restaurant Mode
+Search restaurant meals.
+Estimate calories.
+Suggest healthier alternative.
+Smart Food Swap
+Example:
+French Fries
+↓
+Air Fried Fries
+Soft Drink
+↓
+Sparkling Water
+Butter Chicken
+↓
+Grilled Chicken
+Water Tracker
+Beautiful bottle animation.
+Daily goal.
+Reminder.
+Weight Tracker
+Graph.
+BMI
+Body Fat
+Waist
+Chest
+Hip
+Progress photos.
+AI Health Score
+Daily score out of 100 based on:
+Calories
+Protein
+Fiber
+Sugar
+Water
+Exercise
+Sleep
+Consistency
+Macro Breakdown
+Interactive pie chart.
+Protein
+Carbs
+Fat
+Micronutrient Dashboard
+Track:
+Iron
+Vitamin D
+Vitamin B12
+Calcium
+Magnesium
+Zinc
+Sodium
+Potassium
+Vitamin C
+Vitamin A
+Daily RDA comparison.
+Food History
+Search previous meals.
+Favorite meals.
+Recent meals.
+Pinned meals.
+Repeat yesterday.
+Custom Foods
+Create custom recipes.
+Save meals.
+Import recipes.
+Wearable Integration
+Google Fit
+Apple Health
+Fitbit
+Garmin
+Samsung Health
+Automatically import:
+Steps
+Calories Burned
+Heart Rate
+Sleep
+AI Insights
+Examples:
+You consume most calories after 8 PM.
+Protein intake drops on weekends.
+You skip breakfast frequently.
+Average sodium is high.
+Weight loss likely to plateau.
+Recommend increasing fiber.
+Reports
+Generate:
+Weekly PDF
+Monthly PDF
+Progress report
+Nutrition report
+Share with doctor or nutritionist.
+Community
+(Optional)
+Share recipes
+Challenges
+Progress
+Friends
+Premium Features
+Unlimited AI scans
+Advanced analytics
+Unlimited reports
+AI meal planner
+Nutrition coach
+Restaurant scanner
+Wearable sync
+Cloud backup
+Export CSV/PDF
+Admin Panel
+Manage:
+Users
+Foods
+Reports
+AI feedback
+Food database
+Subscriptions
+Announcements
+Backend
+Use:
+Supabase/Firebase
+Authentication
+Cloud Storage
+Realtime Sync
+Offline Support
+Caching
+AI Models
+Use Gemini/OpenAI for:
+Food understanding
+Meal advice
+Recipe generation
+Image recognition
+Nutrition explanation
+Conversation memory
+Performance
+Offline-first
+Instant search
+Lazy loading
+Secure authentication
+End-to-end encrypted health data
+Fast image processing
+Responsive on Android, iOS, Web, Desktop
+Features Users Would Love (Beyond Journable)
+AI Nutrition Score for every meal (0–100).
+"Can I Eat This?" camera mode that instantly rates foods before eating.
+Restaurant menu analyzer with healthier alternatives.
+Budget-friendly meal planning based on local grocery prices.
+Pantry-aware recipes using ingredients already at home.
+Smart fasting tracker with intermittent fasting schedules.
+Craving predictor that suggests healthier alternatives before common craving times.
+Menstrual cycle-aware nutrition recommendations (optional).
+Family profiles to manage multiple users from one account.
+Scan grocery receipts to automatically add purchased foods to the pantry.
+Nutrition deficiency alerts (e.g., low iron, vitamin D, or fiber over time).
+Habit heatmap showing consistency across weeks and months.
+AI weekly coach that reviews progress and sets personalized goals.
+Healthy restaurant finder nearby with meals matching calorie goals.
+Fitness integration to automatically adjust calorie targets based on exercise.
+Privacy-first mode with local AI processing where possible.
+AI-powered meal photo gallery with before/after progress timelines.
+Goal: Build the most intelligent, beautiful, and user-friendly AI nutrition companion that not only tracks food but actively helps users improve their eating habits through personalized insights, automation, and long-term motivation.
+]
