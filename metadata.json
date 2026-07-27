@@ -1,0 +1,6 @@
+{
+  "name": "Nutrica",
+  "description": "Nutrica is an advanced AI-powered nutrition tracker focusing on effortless food logging, AI nutrition analysis, and personalized coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
